@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="so_blue" match-name=".*"/>
+  <table-filter match-catalog="so_blue" match-name="agrupamento_ocorrencia"/>
+  <table-filter match-catalog="so_blue" match-name="cliente"/>
+  <table-filter match-catalog="so_blue" match-name="configuracao"/>
+  <table-filter match-catalog="so_blue" match-name="contrato"/>
+  <table-filter match-catalog="so_blue" match-name="log_so_blue"/>
+  <table-filter match-catalog="so_blue" match-name="ocorrencia"/>
+  <table-filter match-catalog="so_blue" match-name="interacao"/>
+  <table-filter match-catalog="so_blue" match-name="usuario"/>
+</hibernate-reverse-engineering>
